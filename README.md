@@ -25,6 +25,6 @@ Isabela Oliveira de Carvalho da Costa - 2224290056
 
 Robson Carneiro Viana - 2224290095
 
-Carlos Henrique Sanches Silva - 2224290025
-
 Iran Felix Sampaio Ribeiro - 2224290040
+
+Carlos Henrique Sanches Silva - 2224290025
