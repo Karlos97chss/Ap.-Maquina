@@ -18,3 +18,13 @@ Criaremos um gráfico de pizza para visualizar a distribuição da porcentagem d
 
 __*4) Gráfico de Dispersão - Idade versus Tarifa*__
 Elaboraremos um gráfico de dispersão que relaciona a idade dos passageiros com o valor da tarifa que pagaram. Isso nos permitirá observar qualquer correlação entre esses dois fatores e entender melhor como a tarifa variou com a idade dos passageiros.
+
+
+
+Isabela Oliveira de Carvalho da Costa - 2224290056
+
+Robson Carneiro Viana - 2224290095
+
+Carlos Henrique Sanches Silva - 2224290025
+
+Iran Felix Sampaio Ribeiro - 2224290040
